@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://nastyaivanova-rudn.github.io/en/publication/</link>
+      <atom:link href="https://nastyaivanova-rudn.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nastyaivanova-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://nastyaivanova-rudn.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://nastyaivanova-rudn.github.io/en/publication/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nastyaivanova-rudn.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;что-такое-git-и-зачем-он-нужен-&#34;&gt;Что такое Git и зачем он нужен? 💡&lt;/h2&gt;
+&lt;p&gt;При работе с кодом (даже математическим!) важно сохранять версии файлов, отслеживать изменения и не бояться что-то сломать. &lt;strong&gt;Git&lt;/strong&gt; – это система управления версиями, которая позволяет всё это делать.&lt;/p&gt;
+&lt;h3 id=&#34;-почему-git-полезен&#34;&gt;🔹 Почему Git полезен?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Сохранение истории изменений&lt;/strong&gt; — легко вернуться к предыдущему состоянию 📜&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Работа с ветками&lt;/strong&gt; — можно экспериментировать без страха испортить основной код 🌱&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместная работа&lt;/strong&gt; — удобно работать над проектами в команде 👥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-базовые-команды-git&#34;&gt;🔹 Базовые команды Git&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init               &lt;span class=&#34;c1&#34;&gt;# Создать новый репозиторий  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone &amp;lt;url&amp;gt;        &lt;span class=&#34;c1&#34;&gt;# Склонировать удалённый репозиторий  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add &amp;lt;файл&amp;gt;         &lt;span class=&#34;c1&#34;&gt;# Добавить файл к коммиту  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Комментарий&amp;#34;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# Зафиксировать изменения  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push               &lt;span class=&#34;c1&#34;&gt;# Отправить изменения в удалённое хранилище  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull               &lt;span class=&#34;c1&#34;&gt;# Получить актуальные изменения  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout -b &amp;lt;ветка&amp;gt; &lt;span class=&#34;c1&#34;&gt;# Создать и переключиться на новую ветку  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge &amp;lt;ветка&amp;gt;      &lt;span class=&#34;c1&#34;&gt;# Объединить ветки  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log                &lt;span class=&#34;c1&#34;&gt;# Посмотреть историю изменений  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-где-хранить-репозитории&#34;&gt;🔹 Где хранить репозитории?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — самый популярный сервис, удобен для open-source и личных проектов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab&lt;/strong&gt; — хорошо подходит для CI/CD и корпоративных проектов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitbucket&lt;/strong&gt; — часто используется в связке с Jira и другими инструментами Atlassian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;###🔹 Git — не только для программистов
+Git полезен не только в разработке. В математике и исследованиях он помогает вести версионность документов, кодов, научных статей. Освоить Git — значит облегчить себе работу и научиться организовывать проекты грамотно.&lt;/p&gt;
+&lt;p&gt;####🔹 Пробуйте, экспериментируйте, не бойтесь осваивать новое! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

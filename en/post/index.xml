@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://nastyaivanova-rudn.github.io/en/post/</link>
+      <atom:link href="https://nastyaivanova-rudn.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nastyaivanova-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://nastyaivanova-rudn.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://nastyaivanova-rudn.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nastyaivanova-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели-&#34;&gt;Итоги недели 📚&lt;/h2&gt;
+&lt;p&gt;Неделя была насыщенной и интересной!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Разбиралась с теорией множеств и логикой. Поначалу было сложно, но практика помогает!&lt;/li&gt;
+&lt;li&gt;✏️ Написала несколько математических доказательств, которые оказались неожиданно увлекательными.&lt;/li&gt;
+&lt;li&gt;🖥️ Изучала Python для численных вычислений. Теперь понимаю, как писать код для математики!&lt;/li&gt;
+&lt;li&gt;💭 Размышляла о приложении теории графов в реальной жизни – тема увлекла!&lt;/li&gt;
+&lt;li&gt;☕ Пережила очередную контрольную. Кажется, становится легче (или я просто привыкаю?).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Следующая неделя обещает новые вызовы – будем покорять высшую математику дальше! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
