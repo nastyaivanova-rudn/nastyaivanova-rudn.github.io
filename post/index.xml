@@ -5,12 +5,25 @@
     <link>https://nastyaivanova-rudn.github.io/post/</link>
       <atom:link href="https://nastyaivanova-rudn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nastyaivanova-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://nastyaivanova-rudn.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://nastyaivanova-rudn.github.io/post/02/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nastyaivanova-rudn.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;как-прошла-учебная-неделя&#34;&gt;Как прошла учебная неделя?&lt;/h1&gt;
+&lt;p&gt;Привет! 🌸 На этой неделе был настоящий поток информации, особенно по физике и высшей математике. Занятия были сложными, но интересными. На математике снова разбирали сложные теоремы и интегралы, и несмотря на трудности, я чувствую, что начинаю лучше понимать материал.&lt;/p&gt;
+&lt;p&gt;На механике пришлось попрактиковаться с расчетами, а вот на парах по программированию все было более легким, так как смогла завершить одну из лабораторных. Тем не менее, на следующей неделе предстоит контрольная, так что нужно усиленно готовиться.&lt;/p&gt;
+&lt;p&gt;Пока что балансирую между теорией и практикой, но думаю, что с каждым днем будет только легче!&lt;/p&gt;
+&lt;p&gt;Как у тебя прошла неделя? Делись в комментариях! 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
